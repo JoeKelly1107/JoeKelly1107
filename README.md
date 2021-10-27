@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JoeKelly1107
+- 👀 I’m interested in volleyball, video games, and music
+- 🌱 I’m currently learning python
